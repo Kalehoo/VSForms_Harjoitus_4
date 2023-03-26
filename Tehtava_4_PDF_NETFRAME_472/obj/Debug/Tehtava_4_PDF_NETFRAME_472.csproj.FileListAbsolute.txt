@@ -1,0 +1,10 @@
+C:\Users\Slav!\source\repos\Tehtava_4_PDF_NETFRAME_472\Tehtava_4_PDF_NETFRAME_472\bin\Debug\Tehtava_4_PDF_NETFRAME_472.exe.config
+C:\Users\Slav!\source\repos\Tehtava_4_PDF_NETFRAME_472\Tehtava_4_PDF_NETFRAME_472\bin\Debug\Tehtava_4_PDF_NETFRAME_472.exe
+C:\Users\Slav!\source\repos\Tehtava_4_PDF_NETFRAME_472\Tehtava_4_PDF_NETFRAME_472\bin\Debug\Tehtava_4_PDF_NETFRAME_472.pdb
+C:\Users\Slav!\source\repos\Tehtava_4_PDF_NETFRAME_472\Tehtava_4_PDF_NETFRAME_472\obj\Debug\Tehtava_4_PDF_NETFRAME_472.Form1.resources
+C:\Users\Slav!\source\repos\Tehtava_4_PDF_NETFRAME_472\Tehtava_4_PDF_NETFRAME_472\obj\Debug\Tehtava_4_PDF_NETFRAME_472.Properties.Resources.resources
+C:\Users\Slav!\source\repos\Tehtava_4_PDF_NETFRAME_472\Tehtava_4_PDF_NETFRAME_472\obj\Debug\Tehtava_4_PDF_NETFRAME_472.csproj.GenerateResource.cache
+C:\Users\Slav!\source\repos\Tehtava_4_PDF_NETFRAME_472\Tehtava_4_PDF_NETFRAME_472\obj\Debug\Tehtava_4_PDF_NETFRAME_472.csproj.CoreCompileInputs.cache
+C:\Users\Slav!\source\repos\Tehtava_4_PDF_NETFRAME_472\Tehtava_4_PDF_NETFRAME_472\obj\Debug\Tehtava_4_PDF_NETFRAME_472.exe
+C:\Users\Slav!\source\repos\Tehtava_4_PDF_NETFRAME_472\Tehtava_4_PDF_NETFRAME_472\obj\Debug\Tehtava_4_PDF_NETFRAME_472.pdb
+C:\Users\Slav!\source\repos\Tehtava_4_PDF_NETFRAME_472\Tehtava_4_PDF_NETFRAME_472\obj\Debug\Tehtava_4_PDF_NETFRAME_472.csproj.AssemblyReference.cache
